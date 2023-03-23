@@ -1,2 +1,6 @@
 # job-board-web
-Job board website
+<br>
+<p>
+  <strong>API for a Job board application.</strong>
+</p>
+<br>
