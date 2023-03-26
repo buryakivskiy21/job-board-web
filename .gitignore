@@ -22,3 +22,6 @@ staticfiles/
 
 # Virtual environment
 venv/
+
+# PyCharm .idea
+.idea/
